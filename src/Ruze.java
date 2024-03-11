@@ -1,7 +1,7 @@
 public class Ruze extends  Flower{
 
     public Ruze() {
-        super("ruze",20,13,2.5);
+        super("ruze",20,20,2.5);
     }
 
     @Override

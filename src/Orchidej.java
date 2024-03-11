@@ -1,6 +1,6 @@
 public class Orchidej extends Flower{
     public Orchidej() {
-        super("orchidej",30,12,4);
+        super("orchidej",30,19,4);
     }
 
     @Override

@@ -1,7 +1,7 @@
 public class Tulipan extends Flower{
 
     public Tulipan() {
-        super("tulipan",10,15,5);
+        super("tulipan",10,21,5);
     }
 
     @Override

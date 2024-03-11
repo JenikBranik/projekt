@@ -1,7 +1,7 @@
 public class Fialka extends Flower{
 
     public Fialka() {
-        super("fialka",40,11,2);
+        super("fialk",40,11,2);
     }
 
     @Override

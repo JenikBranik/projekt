@@ -1,7 +1,7 @@
 public class Narcis extends Flower{
 
     public Narcis() {
-        super("narcis",50,10,3.1);
+        super("narcis",50,10,3);
     }
 
     @Override

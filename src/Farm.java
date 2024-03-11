@@ -17,7 +17,6 @@ public class Farm {
     public void zavlazit(){
 
         for (int i = 0; i>kvetinka.size();i++) {
-            kvetinka.get(i).chanceOfGrowth =+ 1;
         }
     }
     public void sklizet(){
